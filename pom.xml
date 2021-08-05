@@ -16,7 +16,7 @@
     </parent>
     <groupId>com.adamtheman</groupId>
     <artifactId>my-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>my-pet-clinic</name>
     <description>my-pet-clinic</description>
     <properties>
@@ -50,7 +50,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/adamtheman/my-pet-clinic.git</developerConnection>
-    <tag>my-pet-clinic-0.0.1</tag>
+    <tag>HEAD</tag>
     </scm>
 
 </project>
