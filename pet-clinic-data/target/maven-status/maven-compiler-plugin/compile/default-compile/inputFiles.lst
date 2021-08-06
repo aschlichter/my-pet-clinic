@@ -1,5 +1,14 @@
-/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/Owner.java
-/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/Person.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/PetService.java
 /home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/PetType.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/Owner.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/BaseEntity.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/Person.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/map/AbstractMapService.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/OwnerService.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/map/OwnerServiceMap.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/CrudService.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/VetService.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/map/VetServiceMap.java
+/home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/services/map/PetServiceMap.java
 /home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/Pet.java
 /home/adam/my-pet-clinic/pet-clinic-data/src/main/java/com/adamtheman/mypetclinic/model/Vet.java

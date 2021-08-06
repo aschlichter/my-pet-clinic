@@ -1,5 +1,14 @@
-com/adamtheman/mypetclinic/model/Vet.class
-com/adamtheman/mypetclinic/model/Person.class
-com/adamtheman/mypetclinic/model/Pet.class
 com/adamtheman/mypetclinic/model/PetType.class
 com/adamtheman/mypetclinic/model/Owner.class
+com/adamtheman/mypetclinic/services/map/AbstractMapService.class
+com/adamtheman/mypetclinic/services/VetService.class
+com/adamtheman/mypetclinic/model/Vet.class
+com/adamtheman/mypetclinic/services/map/VetServiceMap.class
+com/adamtheman/mypetclinic/services/PetService.class
+com/adamtheman/mypetclinic/model/Person.class
+com/adamtheman/mypetclinic/model/BaseEntity.class
+com/adamtheman/mypetclinic/model/Pet.class
+com/adamtheman/mypetclinic/services/map/PetServiceMap.class
+com/adamtheman/mypetclinic/services/CrudService.class
+com/adamtheman/mypetclinic/services/map/OwnerServiceMap.class
+com/adamtheman/mypetclinic/services/OwnerService.class
