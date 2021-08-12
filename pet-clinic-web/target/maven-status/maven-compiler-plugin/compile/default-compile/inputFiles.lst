@@ -1,2 +1,5 @@
+/home/adam/my-pet-clinic/pet-clinic-web/src/main/java/com/adamtheman/mypetclinic/controllers/OwnerController.java
 /home/adam/my-pet-clinic/pet-clinic-web/src/main/java/com/adamtheman/mypetclinic/MyPetClinicApplication.java
 /home/adam/my-pet-clinic/pet-clinic-web/src/main/java/com/adamtheman/mypetclinic/controllers/IndexController.java
+/home/adam/my-pet-clinic/pet-clinic-web/src/main/java/com/adamtheman/mypetclinic/bootstrap/DataLoader.java
+/home/adam/my-pet-clinic/pet-clinic-web/src/main/java/com/adamtheman/mypetclinic/controllers/VetController.java
