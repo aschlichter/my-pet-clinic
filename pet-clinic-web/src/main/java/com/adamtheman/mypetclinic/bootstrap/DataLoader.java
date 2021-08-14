@@ -22,6 +22,7 @@ public class DataLoader implements CommandLineRunner {
         this.petTypeService = petTypeService;
     }
 
+
     @Override
     public void run(String... args) throws Exception {
 
